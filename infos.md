@@ -1,0 +1,2 @@
+- tailwind merge
+- tailwind variants
