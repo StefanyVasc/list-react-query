@@ -9,9 +9,6 @@ import { useSearchParams } from 'react-router-dom'
 import { Button } from './ui/button'
 import { Select, SelectContent, SelectItem, SelectTrigger } from './ui/select'
 
-// import { Button } from './ui/button'
-// import { Select, SelectContent, SelectItem, SelectTrigger } from './ui/select'
-
 interface PaginationProps {
   pages: number
   items: number
